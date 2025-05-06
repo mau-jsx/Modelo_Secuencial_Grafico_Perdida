@@ -1,0 +1,1 @@
+# Modelo_Secuencial_Grafico_Perdida
